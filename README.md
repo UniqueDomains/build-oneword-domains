@@ -25,7 +25,7 @@ If you want to search & filters the complete database of [.BUILD one word domain
 | aaron.build      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.build  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.build      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.build  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.build  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.build    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.build     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.build   | available | 54       | 1%     | 8      |           |         |         |
@@ -34,7 +34,7 @@ If you want to search & filters the complete database of [.BUILD one word domain
 | abbatial.build   | available | 50       | 1%     | 8      |           |         |         |
 | abc.build        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.build  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.build  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.build  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.build | available | 56       | 1%     | 10     |           |         |         |
 | abducens.build   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.build   | available | 68       | 1%     | 8      |           |         |         |
@@ -43,7 +43,7 @@ If you want to search & filters the complete database of [.BUILD one word domain
 | aberdonian.build | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.build   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.build    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.build  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.build  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.build    | available | 106      | 5%     | 7      |           |         |         |
 | abient.build     | available | 54       | 1%     | 6      |           |         |         |
 | ability.build    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BUILD one word domain
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
