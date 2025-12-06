@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BUILD one-word domains still available to buy.
 
-This dataset contains 4,564 .BUILD one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,557 .BUILD one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BUILD one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=build-oneword-domains&utm_content=description.top) (4,564) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.BUILD one word domain
 
 | Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.build        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.build      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.build        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.build      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.build  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.build      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.build  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.BUILD one word domain
 | abatic.build     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.build    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.build   | available | 50       | 1%     | 8      |           |         |         |
-| abc.build        | available | 102      | 41%    | 3      |           |         |         |
+| abc.build        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.build  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.build  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.build | available | 56       | 1%     | 10     |           |         |         |
