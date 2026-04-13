@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .build one-word domains from Uniqu
 
 **Public extract:** 9,222 rows · **Live catalog:** 9,222 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/build`  
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | cross.build      | available | $39.98    | —             | 74             | 99     | 5      | namecheap       |
-| space.build      | resell    | —         | —             | 80             | 60     | 5      | Spaceship, Inc. |
+| space.build      | resell    | —         | —             | 80             | 61     | 5      | Spaceship, Inc. |
 | nationwide.build | premium   | $625      | $625          | 76             | 66     | 10     | name.com        |
 | seventeen.build  | available | $39.98    | —             | 84             | 62     | 9      | namecheap       |
 | cloud.build      | resell    | —         | —             | 70             | 59     | 5      | Namecheap       |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BUILD One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BUILD One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
