@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .build one-word domains from Uniqu
 
 **Public extract:** 9,222 rows · **Live catalog:** 9,222 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/build`  
 **Best for:** founders, investors, studios
 
@@ -73,7 +73,7 @@ print(df.head())
 | athletics.build  | available | $39.98    | —             | 69             | 52     | 9      | namecheap       |
 | panda.build      | resell    | —         | —             | 85             | 47     | 5      | Namecheap       |
 | enterprise.build | premium   | $650      | $650          | 68             | 61     | 10     | namecheap       |
-| shared.build     | available | $39.98    | —             | 70             | 39     | 6      | namecheap       |
+| shared.build     | available | $39.98    | —             | 70             | 37     | 6      | namecheap       |
 | cube.build       | resell    | —         | —             | 92             | 43     | 4      | Go Daddy, LLC   |
 | ace.build        | premium   | $1,875    | $1,875        | 88             | 57     | 3      | name.com        |
 | conscious.build  | available | $39.98    | —             | 89             | 36     | 9      | namecheap       |
@@ -83,7 +83,7 @@ print(df.head())
 | instant.build    | resell    | —         | —             | 108            | 36     | 7      | Porkbun, LLC    |
 | business.build   | premium   | $1,950    | $1,950        | 100            | 53     | 8      | namecheap       |
 | goon.build       | available | $39.98    | —             | 80             | 35     | 5      | namecheap       |
-| stay.build       | resell    | —         | —             | 62             | 33     | 4      | Go Daddy, LLC   |
+| visual.build     | resell    | —         | —             | 88             | 32     | 6      | Porkbun, LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BUILD One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BUILD One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
