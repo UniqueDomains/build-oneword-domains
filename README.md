@@ -1,22 +1,22 @@
-# Available .BUILD One-Word Domains (9,222)
+# Available .BUILD One-Word Domains (11,979)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C222%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C222%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C979%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .build one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .build one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,979 domains** on the canonical page below.
 
-**Public extract:** 9,222 rows · **Live catalog:** 9,222 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,979 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/build`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .BUILD one-word domain
 
 ### Files
 
-- `build.csv` — public CSV extract (9,222 rows)
-- `build.json` — public JSON extract (9,222 rows)
+- `build.csv` — public CSV extract (1,000 rows)
+- `build.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| cross.build      | available | $39.98    | —             | 74             | 99     | 5      | namecheap       |
-| space.build      | resell    | —         | —             | 80             | 61     | 5      | Spaceship, Inc. |
-| nationwide.build | premium   | $625      | $625          | 76             | 66     | 10     | name.com        |
-| seventeen.build  | available | $39.98    | —             | 84             | 62     | 9      | namecheap       |
-| cloud.build      | resell    | —         | —             | 70             | 59     | 5      | Namecheap       |
-| power.build      | premium   | $650      | $650          | 98             | 62     | 5      | namecheap       |
-| athletics.build  | available | $39.98    | —             | 69             | 52     | 9      | namecheap       |
-| panda.build      | resell    | —         | —             | 85             | 47     | 5      | Namecheap       |
-| enterprise.build | premium   | $650      | $650          | 68             | 61     | 10     | namecheap       |
-| shared.build     | available | $39.98    | —             | 70             | 37     | 6      | namecheap       |
-| cube.build       | resell    | —         | —             | 92             | 43     | 4      | Go Daddy, LLC   |
-| ace.build        | premium   | $1,875    | $1,875        | 88             | 57     | 3      | name.com        |
-| conscious.build  | available | $39.98    | —             | 89             | 36     | 9      | namecheap       |
-| mega.build       | resell    | —         | —             | 74             | 41     | 4      | Go Daddy, LLC   |
-| free.build       | premium   | $625      | $625          | 88             | 54     | 4      | name.com        |
-| short.build      | available | $39.98    | —             | 76             | 36     | 5      | namecheap       |
-| instant.build    | resell    | —         | —             | 108            | 36     | 7      | Porkbun, LLC    |
-| business.build   | premium   | $1,950    | $1,950        | 100            | 53     | 8      | namecheap       |
-| goon.build       | available | $39.98    | —             | 80             | 35     | 5      | namecheap       |
-| visual.build     | resell    | —         | —             | 88             | 32     | 6      | Porkbun, LLC    |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
+| keepthechange.build | available | $39.98    | —             | 46             | 59     | 15     | namecheap     |
+| smarts.build        | resell    | —         | —             | 67             | 16     | 6      | Go Daddy, LLC |
+| hotels.build        | premium   | $625      | —             | 64             | 82     | 6      | name.com      |
+| shortcuts.build     | available | $39.98    | —             | 48             | 41     | 10     | namecheap     |
+| makers.build        | premium   | $1,875    | —             | 62             | 67     | 6      | name.com      |
+| aliens.build        | available | $39.98    | —             | 56             | 35     | 6      | namecheap     |
+| regions.build       | premium   | $625      | —             | 64             | 59     | 7      | name.com      |
+| tickets.build       | available | $39.98    | —             | 64             | 34     | 7      | namecheap     |
+| cars.build          | premium   | $3,750    | —             | 66             | 47     | 4      | name.com      |
+| pops.build          | available | $39.98    | —             | 74             | 24     | 4      | namecheap     |
+| jobs.build          | premium   | $1,875    | —             | 79             | 42     | 4      | name.com      |
+| whats.build         | available | $39.98    | —             | 58             | 24     | 5      | namecheap     |
+| coins.build         | premium   | $1,875    | —             | 56             | 41     | 5      | name.com      |
+| superhero.build     | available | $39.98    | —             | 84             | 23     | 9      | namecheap     |
+| events.build        | premium   | $625      | —             | 68             | 37     | 6      | name.com      |
+| motorsport.build    | available | $39.98    | —             | 74             | 23     | 10     | namecheap     |
+| Cats.build          | premium   | $700      | $700          | 59             | 33     | 4      | namecheap     |
+| veterans.build      | available | $39.98    | —             | 56             | 23     | 8      | namecheap     |
+| letsgo.build        | premium   | $187.50   | —             | 57             | 31     | 7      | name.com      |
+| herbs.build         | available | $39.98    | —             | 62             | 22     | 5      | namecheap     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,222-row public sample | 9,222 live domains                               |
+| 1,000-row public sample | 11,979 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BUILD One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BUILD One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
