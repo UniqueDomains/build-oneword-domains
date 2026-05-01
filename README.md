@@ -1,10 +1,10 @@
-# Available .BUILD One-Word Domains (11,979)
+# Available .BUILD One-Word Domains (12,165)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C979%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C165%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .build one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,979 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,165 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,979 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,165 domains
 
-**Last updated:** 2026-04-27  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/build`  
 **Best for:** founders, investors, studios
 
@@ -77,13 +77,13 @@ print(df.head())
 | jobs.build          | premium   | $1,875    | —             | 79             | 42     | 4      | name.com      |
 | whats.build         | available | $39.98    | —             | 58             | 24     | 5      | namecheap     |
 | coins.build         | premium   | $1,875    | —             | 56             | 41     | 5      | name.com      |
-| superhero.build     | available | $39.98    | —             | 84             | 23     | 9      | namecheap     |
+| coupons.build       | available | $39.98    | —             | 52             | 24     | 7      | namecheap     |
 | events.build        | premium   | $625      | —             | 68             | 37     | 6      | name.com      |
-| motorsport.build    | available | $39.98    | —             | 74             | 23     | 10     | namecheap     |
+| superhero.build     | available | $39.98    | —             | 84             | 23     | 9      | namecheap     |
 | Cats.build          | premium   | $700      | $700          | 59             | 33     | 4      | namecheap     |
-| veterans.build      | available | $39.98    | —             | 56             | 23     | 8      | namecheap     |
+| motorsport.build    | available | $39.98    | —             | 74             | 23     | 10     | namecheap     |
 | letsgo.build        | premium   | $187.50   | —             | 57             | 31     | 7      | name.com      |
-| herbs.build         | available | $39.98    | —             | 62             | 22     | 5      | namecheap     |
+| veterans.build      | available | $39.98    | —             | 56             | 23     | 8      | namecheap     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,979 live domains                              |
+| 1,000-row public sample | 12,165 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BUILD One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BUILD One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
