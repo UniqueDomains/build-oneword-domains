@@ -990,6 +990,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 53b679b5-c9be-459e-9380-f3808fe742ed,takenotes.build,available,39.98,,74,5,10,namecheap,,
 53b82630-c923-4eff-ab1c-d000565829b3,gears.build,available,39.98,,54,12,5,namecheap,,
 53dd26d8-f193-4c9c-881d-79e89f024772,wagons.build,available,39.98,,52,4,6,namecheap,,
+541d0fc8-811b-45d1-8555-6377579b1a84,showcase.build,premium,,,82,27,8,,,
 54236fc6-c8d7-4721-b3f8-0c0d37e53186,ifyouwill.build,available,39.98,,61,2,11,namecheap,,
 5427a4d2-5b61-482b-8fa5-889ac3a3c7d4,indetail.build,available,39.98,,49,4,9,namecheap,,
 542d3d99-c9f7-4f78-bd90-e44415148462,leavenotrace.build,available,39.98,,68,4,14,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 55141c5b-5b41-4656-85cf-c4ab55633a1a,mutualaid.build,available,39.98,,78,9,10,namecheap,,
 556be09a-c9b8-4a9f-a07e-3364b364cabb,biases.build,available,39.98,,42,3,6,namecheap,,
 556c6964-8f4a-43da-937f-502405558d25,mistakes.build,available,39.98,,52,7,8,namecheap,,
-557d10bd-f44b-4287-91f0-e00c5e0a6c8e,retailed.build,available,39.98,,59,3,8,namecheap,,
