@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .build one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,304 domains · **Median ask:** $205.75 · **High-demand under $2,500:** 51
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/build`
 **Best for:** founders, investors, studios
 
@@ -65,6 +65,8 @@ print(df.head())
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
 | nothing.build | premium   | $1,875    | —             | high           | low    | 7      | name.com      |
+| fuck.build    | premium   | $1,875    | —             | high           | high   | 4      | name.com      |
+| fancy.build   | premium   | $625      | —             | high           | low    | 5      | name.com      |
 | acts.build    | available | $39.98    | —             | medium         | low    | 4      | namecheap     |
 | glue.build    | resell    | —         | —             | high           | low    | 4      | Go Daddy, LLC |
 | abo.build     | premium   | $187.50   | $187.50       | low            | low    | 3      | name.com      |
@@ -75,15 +77,13 @@ print(df.head())
 | glasses.build | resell    | —         | —             | high           | low    | 7      | Dynadot LLC   |
 | bae.build     | premium   | $3,750    | —             | high           | low    | 3      | name.com      |
 | boer.build    | available | $32.98    | $39.98        | low            | low    | 4      | namecheap     |
-| instant.build | resell    | —         | —             | high           | low    | 7      | Porkbun, LLC  |
 | beg.build     | premium   | $187.50   | —             | medium         | low    | 3      | name.com      |
 | cone.build    | available | $39.98    | —             | medium         | low    | 4      | namecheap     |
 | bit.build     | premium   | $1,875    | —             | high           | medium | 3      | name.com      |
 | cons.build    | available | $39.98    | —             | high           | low    | 4      | namecheap     |
 | bra.build     | premium   | $187.50   | —             | medium         | low    | 3      | name.com      |
-| cure.build    | available | $39.98    | —             | high           | low    | 4      | namecheap     |
+| cure.build    | available | $32.98    | $39.98        | medium         | low    | 4      | namecheap     |
 | con.build     | premium   | $187.50   | —             | high           | low    | 3      | name.com      |
-| cyan.build    | available | $32.98    | $39.98        | medium         | low    | 4      | namecheap     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BUILD One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BUILD One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
