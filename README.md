@@ -1,10 +1,10 @@
-# Available .BUILD One-Word Domains (31,304)
+# Available .BUILD One-Word Domains (32,265)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C304%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C265%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .build one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,304 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,265 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,304 domains · **Median ask:** $205.75 · **High-demand under $2,500:** 51
+**Public extract:** 1,000 rows · **Live catalog:** 32,265 domains · **Median ask:** $203.36 · **High-demand under $2,500:** 48
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/build`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
-| nothing.build | premium   | $1,875    | —             | high           | low    | 7      | name.com      |
-| fuck.build    | premium   | $1,875    | —             | high           | high   | 4      | name.com      |
-| fancy.build   | premium   | $625      | —             | high           | low    | 5      | name.com      |
-| acts.build    | available | $39.98    | —             | medium         | low    | 4      | namecheap     |
-| glue.build    | resell    | —         | —             | high           | low    | 4      | Go Daddy, LLC |
-| abo.build     | premium   | $187.50   | $187.50       | low            | low    | 3      | name.com      |
-| arty.build    | available | $32.98    | $39.98        | low            | low    | 4      | namecheap     |
-| panda.build   | resell    | —         | —             | high           | medium | 5      | Namecheap     |
-| ass.build     | premium   | $3,750    | $3,750        | low            | low    | 3      | name.com      |
-| bead.build    | available | $39.98    | —             | high           | low    | 4      | namecheap     |
-| glasses.build | resell    | —         | —             | high           | low    | 7      | Dynadot LLC   |
-| bae.build     | premium   | $3,750    | —             | high           | low    | 3      | name.com      |
-| boer.build    | available | $32.98    | $39.98        | low            | low    | 4      | namecheap     |
-| beg.build     | premium   | $187.50   | —             | medium         | low    | 3      | name.com      |
-| cone.build    | available | $39.98    | —             | medium         | low    | 4      | namecheap     |
-| bit.build     | premium   | $1,875    | —             | high           | medium | 3      | name.com      |
-| cons.build    | available | $39.98    | —             | high           | low    | 4      | namecheap     |
-| bra.build     | premium   | $187.50   | —             | medium         | low    | 3      | name.com      |
-| cure.build    | available | $32.98    | $39.98        | medium         | low    | 4      | namecheap     |
-| con.build     | premium   | $187.50   | —             | high           | low    | 3      | name.com      |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
+| organic.build  | premium   | $650      | $650          | high           | low    | 7      | namecheap     |
+| personal.build | premium   | $1,950    | $1,950        | high           | low    | 8      | namecheap     |
+| vitamin.build  | premium   | $195      | $195          | high           | low    | 7      | namecheap     |
+| protein.build  | available | $32.98    | $39.98        | high           | low    | 7      | namecheap     |
+| cooking.build  | premium   | $1,950    | $1,950        | high           | low    | 7      | namecheap     |
+| ache.build     | available | $32.98    | $39.98        | high           | low    | 4      | namecheap     |
+| glue.build     | resell    | —         | —             | high           | low    | 4      | Go Daddy, LLC |
+| abo.build      | premium   | $187.50   | $187.50       | high           | low    | 3      | name.com      |
+| acts.build     | available | $39.98    | —             | high           | low    | 4      | namecheap     |
+| panda.build    | resell    | —         | —             | high           | medium | 5      | Namecheap     |
+| aol.build      | premium   | $3,750    | —             | high           | high   | 3      | name.com      |
+| aery.build     | available | $32.98    | $39.98        | high           | low    | 4      | namecheap     |
+| glasses.build  | resell    | —         | —             | high           | low    | 7      | Dynadot LLC   |
+| ass.build      | premium   | $3,750    | $3,750        | high           | low    | 3      | name.com      |
+| ahuh.build     | available | $39.98    | —             | high           | low    | 4      | namecheap     |
+| ate.build      | premium   | $187.50   | —             | high           | low    | 3      | name.com      |
+| arty.build     | available | $32.98    | $39.98        | high           | low    | 4      | namecheap     |
+| atp.build      | premium   | $187.50   | —             | high           | low    | 3      | name.com      |
+| ashy.build     | available | $32.98    | $39.98        | high           | low    | 4      | namecheap     |
+| bae.build      | premium   | $3,750    | —             | high           | low    | 3      | name.com      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,304 live domains                        |
+| 1,000-row public sample | 32,265 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 51 high-demand names under $2,500          |
+| Basic exported fields   | 48 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BUILD One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BUILD One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
