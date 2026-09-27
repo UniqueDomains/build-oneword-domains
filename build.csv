@@ -232,7 +232,7 @@ d29d6a87-3421-4932-9644-f8414c9fcb90,papered.build,available,32.98,39.98,medium,
 f7324399-8fe9-493b-bf87-6b31e2aa9ddd,trilateral.build,available,32.98,39.98,medium,low,10,namecheap,,,11/09/2026 14:28
 e823c60e-fe5c-4cbb-b2de-abba86716e8a,unwieldy.build,available,32.98,39.98,medium,low,8,namecheap,,,12/08/2026 13:10
 f0954594-abd1-4450-a4c7-c322154b1a53,begum.build,available,32.98,39.98,medium,low,5,namecheap,,,23/09/2026 03:01
-26ceb475-f3e8-48bd-8ceb-550882561c74,prompting.build,available,39.98,,high,low,9,namecheap,,,
+26ceb475-f3e8-48bd-8ceb-550882561c74,prompting.build,available,32.98,39.98,high,low,9,namecheap,,,27/09/2026 07:31
 8ec21f22-e8c5-4ddc-aa50-d9356d461d51,intensely.build,available,32.98,39.98,high,low,9,namecheap,,,15/09/2026 08:54
 95710a74-960c-4784-ae18-b787178b00f8,tactual.build,available,32.98,39.98,medium,low,7,namecheap,,,21/08/2026 00:04
 4af4b6f2-5cf5-472c-a895-fadf7f1f9b92,scented.build,available,32.98,39.98,high,low,7,namecheap,,,27/09/2026 03:39
@@ -305,6 +305,7 @@ c98d1ace-f37a-4fdf-ad16-80dcba582000,encased.build,available,32.98,39.98,medium,
 f6c18d86-e225-45b9-be1e-e85641fe65a4,infantile.build,available,32.98,39.98,high,low,9,namecheap,,,12/08/2026 05:04
 ec70f9d9-7397-430e-87a4-a8a3cde31f8c,max.build,premium,625,,high,medium,3,name.com,,,
 8abb2249-a7f6-4318-b407-f5913718d762,somber.build,available,32.98,39.98,medium,low,6,namecheap,,,10/09/2026 14:00
+8428ab7c-7317-4929-8782-29679ee3638d,lil.build,premium,195,195,high,low,3,namecheap,,,27/09/2026 06:06
 9e380563-470f-40f9-886f-339a26384f30,leigh.build,available,32.98,39.98,high,low,5,namecheap,,,25/09/2026 08:55
 410679c0-000b-455e-8952-9627e8e980c1,grinning.build,available,39.98,,high,low,8,namecheap,,,
 4f89a576-c6bd-4fbc-8932-650ea0143f48,nyc.build,premium,3750,,high,medium,3,name.com,,,
@@ -413,7 +414,7 @@ ce041e14-103e-4c3d-b7d1-c2cd69c1110a,ubiquitous.build,available,32.98,39.98,high
 dacb514b-034e-46ab-b780-0b5e2bf09462,crossways.build,available,32.98,39.98,medium,low,9,namecheap,,,14/09/2026 09:48
 615b1177-177b-4e06-b28f-ced0e6f6a1ef,poem.build,premium,1950,1950,high,low,4,namecheap,,,25/09/2026 09:59
 c1f1ca11-d581-4cbd-974c-48fae0d07dce,superable.build,available,32.98,39.98,medium,low,9,namecheap,,,11/09/2026 02:14
-997ac94d-608b-4797-b62a-61c1c6f5ca82,jesus.build,premium,1875,,high,medium,5,name.com,,,
+997ac94d-608b-4797-b62a-61c1c6f5ca82,jesus.build,premium,1950,1950,high,medium,5,namecheap,,,27/09/2026 06:36
 bd138b88-6992-4cb2-a912-5d21c51f7050,confident.build,premium,1950,1950,high,low,9,namecheap,,,23/09/2026 19:37
 94c97d27-5cce-4415-804c-c2baf2c66c2b,infatuated.build,available,32.98,39.98,high,low,10,namecheap,,,16/08/2026 21:11
 dbc95d1d-f078-4731-9ce6-5035f85c8bf3,hereafter.build,available,32.98,39.98,high,low,9,namecheap,,,18/08/2026 19:10
@@ -974,6 +975,7 @@ a5415281-d756-45b7-9e51-e3a000abb623,acidosis.build,available,32.98,39.98,medium
 b0d585e4-152a-41b5-8c27-5c28f305b0ef,motorbus.build,available,69.99,69.99,medium,low,8,name.com,,,21/09/2026 05:59
 fd8ddabe-4b5b-4e4a-853a-1317a85c77f3,haploid.build,available,32.98,39.98,medium,low,7,namecheap,,,20/08/2026 23:55
 c43222ff-c16a-4836-b733-c6adf14ac1ea,favourable.build,available,32.98,39.98,high,low,10,namecheap,,,24/09/2026 17:24
+9c8b9092-0c06-470f-9570-c8afb4b95ea0,ronnie.build,available,32.98,39.98,high,low,6,namecheap,,,27/09/2026 07:42
 15026d8d-deae-4fd3-b0af-400901274aa7,yielded.build,available,32.98,39.98,medium,low,7,namecheap,,,18/09/2026 03:02
 64c191e3-07f8-4548-a57d-11ea1191e48b,righteous.build,available,39.98,,high,low,9,namecheap,,,
 1650d0c8-99d2-4fef-8815-d1ccc60a0543,ain.build,premium,187.5,187.5,high,low,3,name.com,,,
@@ -997,5 +999,3 @@ f5243427-f4db-471b-82f3-8670d7af26c0,divorcing.build,available,32.98,39.98,low,l
 d5ae9cd1-45d3-4e04-970e-a8fee6190847,hiatus.build,available,32.98,39.98,high,low,6,namecheap,,,16/09/2026 14:09
 2dfc4819-0903-4eea-a740-c57e5a348ccf,cetaceous.build,available,32.98,39.98,medium,low,9,namecheap,,,12/08/2026 01:04
 f2429fb4-7e31-409f-9e7e-d97a56d61fee,sunlight.build,available,39.98,,high,low,8,namecheap,,,
-8850ddb7-64db-4695-9c4d-3cdcf78c4c68,gaston.build,available,32.98,39.98,high,low,6,namecheap,,,25/09/2026 12:38
-27bb74c5-747d-452f-a272-bb9dd3be6151,causal.build,available,32.98,39.98,high,low,6,namecheap,,,11/08/2026 22:37
