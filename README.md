@@ -1,10 +1,10 @@
-# Available .BUILD One-Word Domains (23,231)
+# Available .BUILD One-Word Domains (23,710)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C231%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C710%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .build one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,231 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,710 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,231 domains · **Median ask:** $311.69 · **High-demand under $2,500:** 94
+**Public extract:** 1,000 rows · **Live catalog:** 23,710 domains · **Median ask:** $311.21 · **High-demand under $2,500:** 94
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/build`
@@ -74,15 +74,15 @@ print(df.head())
 | ards.build  | available | $32.98    | $39.98        | medium         | low    | 4      | namecheap       |
 | awn.build   | premium   | $195      | $195          | high           | low    | 3      | namecheap       |
 | arum.build  | available | $32.98    | $39.98        | medium         | low    | 4      | namecheap       |
-| bag.build   | premium   | $195      | $195          | high           | low    | 3      | namecheap       |
-| babe.build  | available | $39.98    | —             | high           | low    | 4      | namecheap       |
 | bid.build   | premium   | $3,750    | —             | high           | low    | 3      | name.com        |
-| bail.build  | available | $32.98    | $39.98        | high           | low    | 4      | namecheap       |
+| babe.build  | available | $39.98    | —             | high           | low    | 4      | namecheap       |
 | clx.build   | premium   | $187.50   | $187.50       | medium         | low    | 3      | name.com        |
-| bald.build  | available | $32.98    | $39.98        | medium         | low    | 4      | namecheap       |
+| bail.build  | available | $32.98    | $39.98        | high           | low    | 4      | namecheap       |
 | des.build   | premium   | $187.50   | —             | high           | low    | 3      | name.com        |
-| bead.build  | available | $39.98    | —             | high           | low    | 4      | namecheap       |
+| bald.build  | available | $32.98    | $39.98        | medium         | low    | 4      | namecheap       |
 | flu.build   | premium   | $187.50   | —             | high           | low    | 3      | name.com        |
+| bead.build  | available | $39.98    | —             | high           | low    | 4      | namecheap       |
+| fun.build   | premium   | $1,552.70 | $1,552.70     | high           | medium | 3      | spaceship       |
 | beck.build  | available | $69.99    | $69.99        | high           | low    | 4      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,231 live domains                        |
+| 1,000-row public sample | 23,710 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 94 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
